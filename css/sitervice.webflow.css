@@ -2122,8 +2122,9 @@ html.w-mod-js *[data-ix="button2"] {
     box-shadow: none;
   }
   .navbar {
+    height: 80px;
     padding-top: 12px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     box-shadow: none;
   }
   .section {
@@ -2252,6 +2253,12 @@ html.w-mod-js *[data-ix="button2"] {
     margin-right: 0px;
     margin-left: 0px;
   }
+  .about-text._3 {
+    margin-right: 250px;
+  }
+  .about-text._3._2 {
+    margin-left: 250px;
+  }
   .hero-container {
     padding-top: 170px;
     padding-bottom: 150px;
@@ -2348,6 +2355,10 @@ html.w-mod-js *[data-ix="button2"] {
   .logo {
     padding-top: 6px;
   }
+  .brand {
+    height: 76px;
+    padding-bottom: 0px;
+  }
   .media-image {
     border-style: none;
     border-width: 20px;
@@ -2399,6 +2410,10 @@ html.w-mod-js *[data-ix="button2"] {
     overflow: visible;
     margin-bottom: -290px;
   }
+  .logga {
+    padding-bottom: 0px;
+    line-height: 42px;
+  }
   .optin-section {
     padding-right: 14%;
     padding-left: 14%;
@@ -2409,6 +2424,9 @@ html.w-mod-js *[data-ix="button2"] {
   .hmkeh-container {
     padding-right: 6%;
     padding-left: 6%;
+  }
+  .nav-container {
+    height: 56px;
   }
 }
 
@@ -2544,6 +2562,12 @@ html.w-mod-js *[data-ix="button2"] {
     margin-left: 0px;
     font-size: 14px;
   }
+  .about-text._3 {
+    margin-right: 100px;
+  }
+  .about-text._3._2 {
+    margin-left: 100px;
+  }
   .icon-service.facts {
     float: left;
   }
@@ -2627,6 +2651,10 @@ html.w-mod-js *[data-ix="button2"] {
   .slider-testimonilas {
     height: 320px;
   }
+  .div-paginator {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
   .row-paginator {
     padding-bottom: 20px;
   }
@@ -2642,6 +2670,19 @@ html.w-mod-js *[data-ix="button2"] {
   }
   .upper-headline {
     font-size: 16px;
+  }
+  .gray-section._1 {
+    background-position: 0px 0px, 87% 0px;
+    background-attachment: scroll, scroll;
+  }
+  .gray-section._1._2 {
+    background-position: 0px 0px, -238px 0px;
+    background-size: auto, cover;
+    background-attachment: scroll, scroll;
+  }
+  .gray-section._1._3 {
+    background-position: 0px 0px, 11% 0%;
+    background-attachment: scroll, scroll;
   }
   .textlink {
     float: none;
@@ -2700,6 +2741,9 @@ html.w-mod-js *[data-ix="button2"] {
   .column-connect {
     display: block;
     text-align: center;
+  }
+  .addons-row {
+    display: none;
   }
   .optin-section {
     padding-right: 0%;
@@ -2795,6 +2839,12 @@ html.w-mod-js *[data-ix="button2"] {
     margin-right: 0px;
     margin-left: 0px;
   }
+  .about-text._3 {
+    margin-right: 0px;
+  }
+  .about-text._3._2 {
+    margin-left: 0px;
+  }
   .hero-container {
     padding-bottom: 100px;
   }
@@ -2865,6 +2915,27 @@ html.w-mod-js *[data-ix="button2"] {
   .upper-headline {
     margin-bottom: 10px;
     font-size: 11px;
+  }
+  .gray-section._1 {
+    background-image: -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, .6), hsla(0, 0%, 100%, .6)), url('../images/shutterstock_126279959.jpg');
+    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .6), hsla(0, 0%, 100%, .6)), url('../images/shutterstock_126279959.jpg');
+    background-position: 0px 0px, 87% 0px;
+    background-size: auto, cover;
+    background-attachment: scroll, scroll;
+  }
+  .gray-section._1._2 {
+    background-image: -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, .6), hsla(0, 0%, 100%, .6)), url('../images/shutterstock_146912879.jpg');
+    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .6), hsla(0, 0%, 100%, .6)), url('../images/shutterstock_146912879.jpg');
+    background-position: 0px 0px, -238px 0px;
+    background-size: auto, cover;
+    background-attachment: scroll, scroll;
+  }
+  .gray-section._1._3 {
+    background-image: -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, .6), hsla(0, 0%, 100%, .6)), url('../images/12232.jpg');
+    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .6), hsla(0, 0%, 100%, .6)), url('../images/12232.jpg');
+    background-position: 0px 0px, 63% 0px;
+    background-size: auto, auto;
+    background-attachment: scroll, scroll;
   }
   .textlink {
     float: none;
