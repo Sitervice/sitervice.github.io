@@ -1721,10 +1721,10 @@ p {
 }
 
 .optin-section {
-  height: 100vh;
-  padding-top: 124px;
-  padding-right: 25%;
-  padding-left: 25%;
+  height: 92vh;
+  padding-top: 173px;
+  padding-right: 15%;
+  padding-left: 15%;
 }
 
 .optin-header {
@@ -1738,7 +1738,10 @@ p {
 }
 
 .optin-header.success {
+  padding-right: 0px;
+  padding-left: 0px;
   color: #4a4a4a;
+  font-size: 35px;
 }
 
 .optin-text {
@@ -1971,6 +1974,10 @@ p {
   padding-bottom: 40px;
   border: 1px solid #000;
   background-color: #ededed;
+}
+
+.link-vkeh {
+  color: #2eb6d1;
 }
 
 html.w-mod-js *[data-ix="button"] {
@@ -2417,6 +2424,9 @@ html.w-mod-js *[data-ix="button2"] {
   .optin-section {
     padding-right: 14%;
     padding-left: 14%;
+  }
+  .optin-header.success {
+    font-size: 31px;
   }
   .select-field {
     width: 35%;
@@ -2980,6 +2990,11 @@ html.w-mod-js *[data-ix="button2"] {
     padding-left: 0px;
     font-size: 30px;
     line-height: 30px;
+  }
+  .optin-header.success {
+    margin-top: 50px;
+    font-size: 18px;
+    line-height: 28px;
   }
   .optin-form {
     margin-right: 15px;
