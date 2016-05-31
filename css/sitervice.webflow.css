@@ -2106,6 +2106,9 @@ html.w-mod-js *[data-ix="button2"] {
   .button._2.hmkeh.hero {
     margin-top: 35px;
   }
+  .button.hero.w--current {
+    margin-top: 25px;
+  }
   .hero-section {
     padding-bottom: 0px;
     background-position: 0% 0%, 50% 50%;
@@ -2241,7 +2244,7 @@ html.w-mod-js *[data-ix="button2"] {
     padding-top: 0px;
     padding-bottom: 0px;
     font-size: 70px;
-    line-height: 60px;
+    line-height: 70px;
     text-shadow: 1px 1px 6px rgba(0, 0, 0, .34);
   }
   .hero-headline._2 {
@@ -2417,6 +2420,9 @@ html.w-mod-js *[data-ix="button2"] {
     overflow: visible;
     margin-bottom: -290px;
   }
+  .slide-1 {
+    overflow: hidden;
+  }
   .logga {
     padding-bottom: 0px;
     line-height: 42px;
@@ -2437,6 +2443,18 @@ html.w-mod-js *[data-ix="button2"] {
   }
   .nav-container {
     height: 56px;
+  }
+  .slide-2 {
+    overflow: hidden;
+  }
+  .slide-3 {
+    overflow: hidden;
+  }
+  .slide-5 {
+    overflow: hidden;
+  }
+  .body {
+    overflow: hidden;
   }
 }
 
